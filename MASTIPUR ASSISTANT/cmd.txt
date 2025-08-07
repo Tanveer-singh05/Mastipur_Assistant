@@ -1,0 +1,36 @@
+-> commond 
+
+1. what is your name 
+2. hello  or hye or hay
+3. how are you
+4. thanku or thank
+5. good morning
+6. time now
+7. shutdown
+8. play music or song 
+9. open google or google 
+10. youtube or  open youtube
+11. weather
+12. music from my laptop or open song" 
+#could add the command accordingly and can have the things like aas u want to have it here
+and most importantly remember outside the range of the keywords>>>it would not accept anything
+13. good afternoon
+14. good evening
+15. good night
+16. what is the date or today's date
+17. open steam or steam or start steam 
+18. open chrome or chrome or start chrome 
+19. open whatsapp or whatsapp or start whatsapp
+20. open facebook or facebook or start facebook
+21. open instagram or instagram or start instagram
+22. open twitter or twitter or start twitter
+23. open linkedin or linkedin or start linkedin
+24. open github or github or start github
+25. open photos or photos or start photos or open pictures or pictures
+26. open videos or videos or start videos or open movies or movies
+27. open notepad or notepad or start notepad
+28. open calculator or calculator start calculator
+29. open file explorer or file explorer start file explorer
+30. open settings or settings or start settings
+31. mastipur or masti pur
+32. open command prompt or command prompt or start command prompt
